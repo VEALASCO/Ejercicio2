@@ -31,7 +31,7 @@ class Actividad2 : AppCompatActivity() {
             //Esta clase nos va a pedir dos parametros, uno es el contexto o el lugar en el que va a funcionar y el otro es el lugar hacia donde va dirigido o intercambiará información
             val intent = Intent(this, MainActivity::class.java)
 
-            //HOLA
+            //HOLA MUNDO
 
             //Iniciamos la clase intent
             startActivity(intent)
